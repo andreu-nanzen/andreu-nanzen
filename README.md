@@ -15,7 +15,7 @@ These are the core tenets of the culture I strive to build.
 * 🤝 **It all starts with trust**. My number one priority is creating a safe environment where we can all be ourselves. This means having open communication where things that need to be said, get said—without being rude, of course.
 * 🧭 **Strive for autonomy, with accountability**. I don't believe in telling smart people what to do. My role is to show you the way, but you'll have to walk it. Autonomy doesn't mean "do what you want"; we are all accountable for our results and must not settle for good enough.
 * 🚀 **Execution gives clarity**. Let's avoid "paralysis analysis". It's better to start with something and correct our course if needed.
-* 🌍 **Think Adyen first**. We need to focus on the global optimum, not just what's best for our team locally. Don't work in a silo; connect with other solutions, lean on your peers, and be there for them in return.
+* 🌍 **Think Nanzen first**. We need to focus on the global optimum, not just what's best for our team locally. Don't work in a silo; connect with other solutions, lean on your peers, and be there for them in return.
 * 🏆 **Pursue greatness**. I believe in keeping the bar high, because the ceiling will be wherever we put it. It's my job as a leader and mentor to help you unlock your full potential.
 
 #### How I Work
