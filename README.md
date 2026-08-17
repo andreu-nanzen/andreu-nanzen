@@ -2,6 +2,14 @@
 
 👋🏽 Hi there!  I'm Andreu, co-founder and CTO of Nanzen. I will use this space to share public reflections and a guide to working with me.
 
+## ✍🏽 Writing
+
+Reflections and messages I share with the team. Entries are archived as written in [`blog/`](blog/) — newest first.
+
+| Date | Post | About |
+| --- | --- | --- |
+| 2026-08-17 | [Break a few eggs, and work from first principles](blog/2026-08-17-break-a-few-eggs.md) | Why we slowed down: treating a prototype as sacred, and outsourcing our thinking to the tools. |
+
 ## How I lead (aka Andreu's 101)
 
 I put together this short guide to give you a sense of my leadership philosophy and how I like to work. My goal is to be transparent and set us all up for success.
